@@ -9,7 +9,7 @@
 </div>
   
 # Arcticons for Android
-❄️ With over **10000 icons**, Arcticons is one of the largest free & open source icon-packs available. Featuring consistent and elegant handcrafted icons, giving you a minimalistic clutter-free experience on your phone. <br>
+❄️ With over **12000 icons**, Arcticons is one of the largest free & open source icon-packs available. Featuring consistent and elegant handcrafted icons, giving you a minimalistic clutter-free experience on your phone. <br>
 
 🗺️ Powered by a community of icon creators all around the world!
   
@@ -41,7 +41,7 @@
 
 ## Sponsored by
 <div align="center">
-  <a href="https://www.gitbook.com/"><img height="40" alt="GitBook" src="github/gitbook.svg"></a>
+  <a href="https://www.gitbook.com/"><img height="80" alt="GitBook" src="github/gitbook.webp"></a>
 </div>
 
 ## License
